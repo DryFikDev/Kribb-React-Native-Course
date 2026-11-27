@@ -42,3 +42,13 @@ example
 /ios
 /android
 .env
+
+# Android keystore
+*.keystore
+
+# Firebase config
+google-services.json
+GoogleService-Info.plist
+
+# Claude Code local settings
+.claude/settings.local.json
